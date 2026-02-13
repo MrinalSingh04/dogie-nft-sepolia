@@ -8,7 +8,7 @@ This project demonstrates:
 -   ERC-721 implementation using OpenZeppelin
 -   IPFS metadata integration
 -   Deployment to Sepolia testnet
--   NFT minting via Foundry scripts
+-   NFT minting via Foundry scripts 
 -   Successful wallet display verification
 
 ------------------------------------------------------------------------
